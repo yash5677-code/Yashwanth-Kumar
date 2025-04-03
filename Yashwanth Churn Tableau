@@ -1,0 +1,28 @@
+# Telecom Customer Churn Dashboard (Tableau)
+
+📊 This project visualizes churn patterns in the telecom industry using Tableau. Built as part of the Visual Analytics course (MAX 507) at Illinois Institute of Technology.
+
+## 🔍 Objective
+To identify key drivers of customer churn and provide actionable insights to stakeholders using dynamic dashboards.
+
+## 🛠️ Tools Used
+- Tableau
+- Excel (for data prep)
+- Calculated Fields, Set Actions, Parameters
+
+## 📈 Key Insights
+- Customers without international plans had a **71.2% churn rate**.
+- Month-to-month contract holders had the highest churn.
+- High data usage and multiple lines also contributed to increased churn risk.
+
+## 📁 File
+- `Yashwanth Kumar Nirmala Selvakumar_MAX_507_Project 2.twb`: Tableau workbook
+
+## 📸 Dashboard Preview
+*(Insert dashboard screenshots here if available)*
+
+---
+
+👤 **Author**: Yashwanth Kumar Nirmala Selvakumar  
+📫 **Contact**: ynirmalaselvakumar@hawk.iit.edu  
+🔗 **LinkedIn**: [linkedin.com/in/yashwanthkumar22](https://linkedin.com/in/yashwanthkumar22) 
